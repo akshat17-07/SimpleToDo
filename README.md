@@ -2,7 +2,7 @@
 
 **Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: Aksshat Harlalka
+Submitted by: Akshat Harlalka
 
 Time spent: 2 hours spent in total
 
@@ -25,8 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-https://github.com/akshat17-07/SimpleToDo/blob/master/Pre-work-final.gif
+<img src='Pre-work-final.gif' title='Video Walkthrough' alt='Video Walkthrough'>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
